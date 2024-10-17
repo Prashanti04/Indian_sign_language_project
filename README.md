@@ -191,7 +191,5 @@ IDE: PyCharm
 Programming Language: Python 3.9 5 
 
 Python libraries: OpenCV, NumPy, Keras,mediapipe,Tensorflow 
-
-
-
- 
+**architecture diagram:**
+![architecture](https://github.com/Prashanti04/Indian_sign_language_project/blob/main/architecture%20diagram.png)
